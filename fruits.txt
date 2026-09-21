@@ -2,3 +2,4 @@ apple
 banana
 香蕉
 芒果
+荔枝
