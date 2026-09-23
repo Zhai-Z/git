@@ -1,5 +1,6 @@
 apple
 banana
 香蕉
+椰子
 芒果
 荔枝
