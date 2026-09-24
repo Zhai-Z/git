@@ -1,6 +1,6 @@
 apple
 banana
-菠萝
+草莓
 芒果
 荔枝
 苹果
